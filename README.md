@@ -4,7 +4,8 @@ Hi guys, this is Shivam Samaiya
 ### An aspiring data analyst
 
 Skills-
-1. Tableau
+1. Tableau 
+(My Tableau Profile-https://public.tableau.com/profile/shivam.samaiya#!/?newProfile=&activeTab=0)
 2. Excel VBA
 3. Python
 4. Excel Dashboarding
